@@ -23,3 +23,6 @@
                  [animateRows]="true"
                  >
 </ag-grid-angular>
+  ngOnInit() {
+    this.rowData$ = this.http.get<any[]>('https://www.ag-grid.com/example-assets/row-data.json')
+  }
