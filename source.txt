@@ -26,3 +26,7 @@
   ngOnInit() {
     this.rowData$ = this.http.get<any[]>('https://www.ag-grid.com/example-assets/row-data.json')
   }
+import { Component } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+import { ColDef } from 'ag-grid-community';
+import { Observable } from 'rxjs';
