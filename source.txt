@@ -1,0 +1,22 @@
+  rowData$: Observable<any[]> | undefined;
+
+  colDefs: ColDef[] = [
+    { field:'make' },
+    { field:'model' },
+    { field:'price' }
+  ];
+  defaultColDef: ColDef = {
+    sortable:true,
+    filter:true
+  }
+
+
+<ag-grid-angular class="ag-theme-alpine"
+                 style="height:500px;width: 500px"
+                 [rowData]="rowData$ | async"
+                 [columnDefs]="colDefs"
+                 [defaultColDef]="defaultColDef"
+                 [rowSelection]="'multiple'"
+                 [animateRows]="true"
+                 >
+</ag-grid-angular>
