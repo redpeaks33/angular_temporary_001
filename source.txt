@@ -30,3 +30,10 @@ import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { ColDef } from 'ag-grid-community';
 import { Observable } from 'rxjs';
+
+
+  onGridReady(params: GridReadyEvent) {
+    this.gridApi = params.api;
+    this.gridApi.setDomLayout("autoHeight");
+    (document.getElementById("east-ag-grid") as HTMLInputElement).style.height = "";
+  }
