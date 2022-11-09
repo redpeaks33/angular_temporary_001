@@ -20,3 +20,21 @@ option {
   font-family: inherit;
   line-height: 21px;
 }
+
+.ag-theme-material .ag-header {
+  font-size: 14px;
+  line-height: 21px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 6px;
+}
+
+.ag-theme-material {
+  --ag-header-foreground-color: #333333;
+  --ag-header-background-color: #F1F4F7;
+}
+.age-border {
+  border-left: 1px solid #DADADA !important;
+  border-top: 1px solid #DADADA !important;
+}
+ cellClass: ['age-border'],
