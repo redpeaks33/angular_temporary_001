@@ -38,3 +38,20 @@ option {
   border-top: 1px solid #DADADA !important;
 }
  cellClass: ['age-border'],
+ 
+ 
+ //list menu button
+ .button-home {
+  padding: 0px;
+  line-height: 21px;
+  height: 21px;
+  mat-icon {
+    height: 12px;
+    width: 12px;
+    font-size: 12px;
+  }
+  span {
+    font-size: 12px;
+    line-height: 21px;
+  }
+}
