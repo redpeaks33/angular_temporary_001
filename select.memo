@@ -55,3 +55,10 @@ option {
     line-height: 21px;
   }
 }
+
+//input
+  <mat-form-field appearance="outline">
+    <mat-label>検索</mat-label>
+    <input type="text" matInput>
+    <mat-icon matSuffix>search</mat-icon>
+  </mat-form-field>
