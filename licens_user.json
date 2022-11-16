@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1100,
+    "LicenseCode": "4257-2308-9660-5875",
+    "ProductName": "ssdrsitonk 辞書 第13版",
+    "ActivationState": 1,
+    "LimitDate": "2022-09-16T14:45:24.8464144+09:00",
+    "Assigned": false,
+    "LicenseState": 2
+  },
+  {
+    "Id": 1101,
+    "LicenseCode": "7174-9946-7641-2103",
+    "ProductName": "axnhaphfvt 辞書 第15版",
+    "ActivationState": 2,
+    "LimitDate": "2022-07-01T14:45:24.853513+09:00",
+    "Assigned": true,
+    "LicenseState": 2
+  },
+  {
+    "Id": 1102,
+    "LicenseCode": "1692-2470-7245-4663",
+    "ProductName": "xyozmhgtun 辞書 第15版",
+    "ActivationState": 0,
+    "LimitDate": "2022-09-01T14:45:24.8535173+09:00",
+    "Assigned": false,
+    "LicenseState": 1
+  },
+  {
+    "Id": 1103,
+    "LicenseCode": "9083-6434-7236-5475",
+    "ProductName": "wwlmdfidkh 辞書 第14版",
+    "ActivationState": 1,
+    "LimitDate": "2022-06-29T14:45:24.8535253+09:00",
+    "Assigned": true,
+    "LicenseState": 2
+  },
+  {
+    "Id": 1104,
+    "LicenseCode": "6432-8127-8394-4030",
+    "ProductName": "unjgcfshja 辞書 第13版",
+    "ActivationState": 2,
+    "LimitDate": "2022-04-30T14:45:24.8535263+09:00",
+    "Assigned": true,
+    "LicenseState": 0
+  },
+  {
+    "Id": 1105,
+    "LicenseCode": "9343-6042-2099-3195",
+    "ProductName": "desdlfsids 辞書 第1版",
+    "ActivationState": 2,
+    "LimitDate": "2022-11-13T14:45:24.8535837+09:00",
+    "Assigned": false,
+    "LicenseState": 3
+  },
+  {
+    "Id": 1106,
+    "LicenseCode": "7007-8740-2492-4262",
+    "ProductName": "wwaryovsuv 辞書 第18版",
+    "ActivationState": 0,
+    "LimitDate": "2022-05-14T14:45:24.853585+09:00",
+    "Assigned": false,
+    "LicenseState": 2
+  },
+  {
+    "Id": 1107,
+    "LicenseCode": "8867-9975-9057-7304",
+    "ProductName": "vdmgznhnjx 辞書 第7版",
+    "ActivationState": 1,
+    "LimitDate": "2022-03-19T14:45:24.8535861+09:00",
+    "Assigned": false,
+    "LicenseState": 3
+  },
+  {
+    "Id": 1108,
+    "LicenseCode": "2877-3954-8614-6223",
+    "ProductName": "vlcrxgwhrq 辞書 第16版",
+    "ActivationState": 0,
+    "LimitDate": "2022-07-01T14:45:24.853587+09:00",
+    "Assigned": false,
+    "LicenseState": 0
+  },
+  {
+    "Id": 1109,
+    "LicenseCode": "8481-9264-1366-5857",
+    "ProductName": "dakqrqxftv 辞書 第4版",
+    "ActivationState": 2,
+    "LimitDate": "2022-08-01T14:45:24.8535972+09:00",
+    "Assigned": false,
+    "LicenseState": 0
+  }
+]
