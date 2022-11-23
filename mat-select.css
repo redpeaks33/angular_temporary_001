@@ -1,0 +1,52 @@
+.mat-form-field {
+  margin-bottom: 100px;
+  width: 150px !important;
+  //mat-input outline
+  &.mat-form-field-appearance-outline {
+    //mat-input outline color
+    .mat-form-field-outline {
+      height: 30px !important;
+      color: #dadada;
+    }
+    //mat-input focused color
+    &.mat-focused .mat-form-field-outline-thick {
+      color: #dadada;
+    }
+  }
+
+  .mat-form-field-infix {
+    height: 0px;
+
+  }
+  //hide hint area
+  .mat-form-field-wrapper {
+    padding-bottom: 0px;
+
+    .mat-select,
+    .mat-select:hover,
+    .mat-select:focus,
+    .mat-select:active {
+      position: relative;
+      top: -15px;
+      padding: 0px;
+      height: 10px;
+
+
+
+      .mat-select-trigger .mat-select-arrow {
+        color: #dadada !important;
+      }
+
+      .mat-select-arrow {
+        position: relative;
+        top: 5px;
+      }
+    }
+  }
+}
+
+.panelClass {
+  border: 1px #DADADA solid;
+  border-radius: 6px !important;
+  margin-top: 35px;
+}
