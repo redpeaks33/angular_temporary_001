@@ -1,0 +1,13 @@
+<div class="container">
+  <mat-form-field appearance="outline" floatLabel="never" placeholder="Lesson">
+    <mat-select [(value)]="selected"
+                panelClass="panelClass"
+                (selectionChange)="onMenuChange($event.value)">
+
+      <mat-option value="T0" style="display:none">xxxx</mat-option>
+      <mat-option value="T1">Lesson 1</mat-option>
+      <mat-option value="T2">Lesson 2</mat-option>
+      <mat-option value="T3">Lesson 3</mat-option>
+    </mat-select>
+  </mat-form-field>
+</div>
