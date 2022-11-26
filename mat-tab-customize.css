@@ -1,0 +1,28 @@
+/* Styles for tab labels */
+::ng-deep .mat-tab-list {
+  background-color: white;
+
+  .mat-tab-label {
+    min-width: 25px !important;
+    width: 100px !important;
+    max-width: 100px !important;
+    padding: 5px;
+    background-color: transparent;
+    color: #000000;
+    font-weight: bold;
+    opacity: 1 !important;
+
+    &.mat-tab-label-active {
+      width: 100px !important;
+      padding: 5px;
+      background-color: transparent;
+      color: #5290F4;
+    }
+  }
+
+  .mat-ink-bar {
+    background-color: #5290F4 !important;
+  }
+}
+
+
