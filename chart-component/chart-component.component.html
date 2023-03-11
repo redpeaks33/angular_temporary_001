@@ -1,0 +1,37 @@
+<ngx-charts-bar-vertical [view]="config.view"
+                         [results]="single"
+                         [scheme]="config.scheme"
+                         [schemeType]="config.schemeType"
+                         [animations]="config.animations"
+                         [legend]="config.legend"
+                         [xAxis]="config.xAxis"
+                         [yAxis]="config.yAxis"
+                         [showGridLines]="config.showGridLines"
+                         [roundDomains]="config.roundDomains"
+                         [showXAxisLabel]="config.showXAxisLabel"
+                         [showYAxisLabel]="config.showYAxisLabel"
+                         [xAxisLabel]="config.xAxisLabel"
+                         [yAxisLabel]="config.yAxisLabel"
+                         [trimXAxisTicks]="config.trimXAxisTicks"
+                         [trimYAxisTicks]="config.trimYAxisTicks"
+                         [rotateXAxisTicks]="config.rotateXAxisTicks"
+                         [maxXAxisTickLength]="config.maxXAxisTickLength"
+                         [maxYAxisTickLength]="config.maxYAxisTickLength"
+                         [showDataLabel]="config.showDataLabel"
+                         [noBarWhenZero]="config.noBarWhenZero"
+                         [gradient]="config.gradient"
+                         [barPadding]="config.barPadding"
+                         [tooltipDisabled]="config.tooltipDisabled"
+                         [yScaleMax]="config.yScaleMax"
+                         [yScaleMin]="config.yScaleMin"
+                         [roundEdges]="config.roundEdges"
+                         (select)="onSelect($event)"
+                         (activate)="onActivate($event)"
+                         (deactivate)="onDeactivate($event)">
+  <ng-template #tooltipTemplate>
+    <div class="tt">
+      Custom tooltip -
+      {{aaaaaaaaaaS}}
+    </div>
+  </ng-template>
+</ngx-charts-bar-vertical>
