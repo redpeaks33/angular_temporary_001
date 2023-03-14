@@ -1,0 +1,1325 @@
+[
+  {
+    "grades": [
+      {
+        "grade": "1",
+        "classDictionaries": [
+          {
+            "className": "vcbv",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_fvuzl",
+                "name": "NAME_rzdpt"
+              },
+              {
+                "abbrev": "AABREV_tdvfc",
+                "name": "NAME_eppxc"
+              },
+              {
+                "abbrev": "AABREV_obrsh",
+                "name": "NAME_xlejs"
+              },
+              {
+                "abbrev": "AABREV_vnghk",
+                "name": "NAME_ydavf"
+              },
+              {
+                "abbrev": "AABREV_vkmvb",
+                "name": "NAME_lwebd"
+              },
+              {
+                "abbrev": "AABREV_cxyrm",
+                "name": "NAME_cedoa"
+              },
+              {
+                "abbrev": "AABREV_khqmx",
+                "name": "NAME_uqozs"
+              },
+              {
+                "abbrev": "AABREV_tmpba",
+                "name": "NAME_zojsy"
+              },
+              {
+                "abbrev": "AABREV_ztxgd",
+                "name": "NAME_aorvm"
+              }
+            ]
+          },
+          {
+            "className": "sbgp",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_ejxao",
+                "name": "NAME_vlhex"
+              },
+              {
+                "abbrev": "AABREV_mmjcs",
+                "name": "NAME_drujl"
+              },
+              {
+                "abbrev": "AABREV_fdbth",
+                "name": "NAME_zonpg"
+              },
+              {
+                "abbrev": "AABREV_sinmb",
+                "name": "NAME_sktox"
+              },
+              {
+                "abbrev": "AABREV_lmlmq",
+                "name": "NAME_dydwo"
+              },
+              {
+                "abbrev": "AABREV_jvcoy",
+                "name": "NAME_fgywl"
+              },
+              {
+                "abbrev": "AABREV_rdglx",
+                "name": "NAME_aowzm"
+              },
+              {
+                "abbrev": "AABREV_ktltj",
+                "name": "NAME_mudtx"
+              }
+            ]
+          },
+          {
+            "className": "icgy",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_rabuo",
+                "name": "NAME_chrtx"
+              },
+              {
+                "abbrev": "AABREV_lhsye",
+                "name": "NAME_qeqvn"
+              },
+              {
+                "abbrev": "AABREV_vlhzr",
+                "name": "NAME_cjkde"
+              },
+              {
+                "abbrev": "AABREV_jpeex",
+                "name": "NAME_dagwx"
+              },
+              {
+                "abbrev": "AABREV_whshu",
+                "name": "NAME_baoyg"
+              },
+              {
+                "abbrev": "AABREV_gbnih",
+                "name": "NAME_ureqr"
+              },
+              {
+                "abbrev": "AABREV_nwmqu",
+                "name": "NAME_pgbsi"
+              },
+              {
+                "abbrev": "AABREV_vnpwq",
+                "name": "NAME_wljna"
+              },
+              {
+                "abbrev": "AABREV_namix",
+                "name": "NAME_owscq"
+              }
+            ]
+          },
+          {
+            "className": "xkfv",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_luoxs",
+                "name": "NAME_stbgr"
+              },
+              {
+                "abbrev": "AABREV_yrcda",
+                "name": "NAME_msoln"
+              },
+              {
+                "abbrev": "AABREV_bsmtx",
+                "name": "NAME_hyiks"
+              },
+              {
+                "abbrev": "AABREV_shqvs",
+                "name": "NAME_givmp"
+              },
+              {
+                "abbrev": "AABREV_bhnay",
+                "name": "NAME_gadgd"
+              },
+              {
+                "abbrev": "AABREV_ecsju",
+                "name": "NAME_hhmpk"
+              },
+              {
+                "abbrev": "AABREV_gaqga",
+                "name": "NAME_blbgy"
+              },
+              {
+                "abbrev": "AABREV_cfltz",
+                "name": "NAME_siest"
+              },
+              {
+                "abbrev": "AABREV_aaond",
+                "name": "NAME_gbyrd"
+              }
+            ]
+          },
+          {
+            "className": "thwr",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_lpexl",
+                "name": "NAME_zhdql"
+              },
+              {
+                "abbrev": "AABREV_vfyey",
+                "name": "NAME_failq"
+              },
+              {
+                "abbrev": "AABREV_uzuva",
+                "name": "NAME_kjgmu"
+              },
+              {
+                "abbrev": "AABREV_nnfcv",
+                "name": "NAME_wqurw"
+              },
+              {
+                "abbrev": "AABREV_zzwqb",
+                "name": "NAME_riksg"
+              },
+              {
+                "abbrev": "AABREV_tejwh",
+                "name": "NAME_fycyh"
+              },
+              {
+                "abbrev": "AABREV_axubw",
+                "name": "NAME_djgvj"
+              },
+              {
+                "abbrev": "AABREV_fmyli",
+                "name": "NAME_sveyh"
+              },
+              {
+                "abbrev": "AABREV_cddqx",
+                "name": "NAME_xncqk"
+              }
+            ]
+          },
+          {
+            "className": "udqz",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_lqowv",
+                "name": "NAME_pbkgx"
+              },
+              {
+                "abbrev": "AABREV_jalfp",
+                "name": "NAME_gsfey"
+              },
+              {
+                "abbrev": "AABREV_agcas",
+                "name": "NAME_efolv"
+              },
+              {
+                "abbrev": "AABREV_afbnc",
+                "name": "NAME_datpf"
+              },
+              {
+                "abbrev": "AABREV_whhxz",
+                "name": "NAME_norla"
+              },
+              {
+                "abbrev": "AABREV_idkuu",
+                "name": "NAME_utuvp"
+              },
+              {
+                "abbrev": "AABREV_miekq",
+                "name": "NAME_dctgj"
+              }
+            ]
+          },
+          {
+            "className": "vzmc",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_fbcrv",
+                "name": "NAME_ojanv"
+              },
+              {
+                "abbrev": "AABREV_euucm",
+                "name": "NAME_ziqxj"
+              },
+              {
+                "abbrev": "AABREV_cjrsa",
+                "name": "NAME_hohcd"
+              },
+              {
+                "abbrev": "AABREV_wgesw",
+                "name": "NAME_jqpqv"
+              },
+              {
+                "abbrev": "AABREV_ciehn",
+                "name": "NAME_giibj"
+              }
+            ]
+          },
+          {
+            "className": "qjbn",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_rrtlt",
+                "name": "NAME_udqea"
+              },
+              {
+                "abbrev": "AABREV_mqmnm",
+                "name": "NAME_aoeev"
+              },
+              {
+                "abbrev": "AABREV_oltmm",
+                "name": "NAME_bhbbd"
+              },
+              {
+                "abbrev": "AABREV_jjdfa",
+                "name": "NAME_ozcwk"
+              },
+              {
+                "abbrev": "AABREV_esdxh",
+                "name": "NAME_dmipw"
+              }
+            ]
+          }
+        ],
+        "dictionaries": [
+          {
+            "abbrev": "AABREV_ubsgj",
+            "name": "NAME_xnqvr"
+          },
+          {
+            "abbrev": "AABREV_evikn",
+            "name": "NAME_rbimd"
+          },
+          {
+            "abbrev": "AABREV_hxfdw",
+            "name": "NAME_ulbxm"
+          },
+          {
+            "abbrev": "AABREV_akzll",
+            "name": "NAME_whyow"
+          },
+          {
+            "abbrev": "AABREV_gsxte",
+            "name": "NAME_dxpug"
+          }
+        ]
+      },
+      {
+        "grade": "2",
+        "classDictionaries": [
+          {
+            "className": "cufu",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_mravq",
+                "name": "NAME_jfojx"
+              },
+              {
+                "abbrev": "AABREV_rrreb",
+                "name": "NAME_iacin"
+              },
+              {
+                "abbrev": "AABREV_shfci",
+                "name": "NAME_xlasd"
+              },
+              {
+                "abbrev": "AABREV_lkdlb",
+                "name": "NAME_kyvia"
+              },
+              {
+                "abbrev": "AABREV_fghqt",
+                "name": "NAME_koqvb"
+              },
+              {
+                "abbrev": "AABREV_lkexr",
+                "name": "NAME_jkszn"
+              },
+              {
+                "abbrev": "AABREV_vlvyb",
+                "name": "NAME_wovdw"
+              },
+              {
+                "abbrev": "AABREV_ldtif",
+                "name": "NAME_fpkqh"
+              },
+              {
+                "abbrev": "AABREV_aixeo",
+                "name": "NAME_mcenj"
+              }
+            ]
+          },
+          {
+            "className": "qmfc",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_eaiix",
+                "name": "NAME_ydkie"
+              },
+              {
+                "abbrev": "AABREV_dintn",
+                "name": "NAME_odzki"
+              },
+              {
+                "abbrev": "AABREV_pggwp",
+                "name": "NAME_klpzk"
+              },
+              {
+                "abbrev": "AABREV_vjxal",
+                "name": "NAME_xubnv"
+              },
+              {
+                "abbrev": "AABREV_rsvhz",
+                "name": "NAME_rwvhq"
+              },
+              {
+                "abbrev": "AABREV_pycdv",
+                "name": "NAME_mqgrb"
+              },
+              {
+                "abbrev": "AABREV_phwxh",
+                "name": "NAME_tzlxh"
+              },
+              {
+                "abbrev": "AABREV_engvs",
+                "name": "NAME_uzcfo"
+              },
+              {
+                "abbrev": "AABREV_xqcjs",
+                "name": "NAME_odepj"
+              }
+            ]
+          },
+          {
+            "className": "jtpf",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_bdkkb",
+                "name": "NAME_vjkyr"
+              },
+              {
+                "abbrev": "AABREV_tqzbh",
+                "name": "NAME_hzixo"
+              },
+              {
+                "abbrev": "AABREV_ijhci",
+                "name": "NAME_ghjax"
+              },
+              {
+                "abbrev": "AABREV_riqps",
+                "name": "NAME_tkiuq"
+              },
+              {
+                "abbrev": "AABREV_vbbnz",
+                "name": "NAME_yuerw"
+              },
+              {
+                "abbrev": "AABREV_csonv",
+                "name": "NAME_rhayn"
+              },
+              {
+                "abbrev": "AABREV_cvied",
+                "name": "NAME_xdctk"
+              }
+            ]
+          }
+        ],
+        "dictionaries": [
+          {
+            "abbrev": "AABREV_bcqwt",
+            "name": "NAME_lnfkm"
+          },
+          {
+            "abbrev": "AABREV_lgsue",
+            "name": "NAME_vshbm"
+          },
+          {
+            "abbrev": "AABREV_npvek",
+            "name": "NAME_spbec"
+          },
+          {
+            "abbrev": "AABREV_pavwf",
+            "name": "NAME_rnqgp"
+          },
+          {
+            "abbrev": "AABREV_wptxk",
+            "name": "NAME_pdsrc"
+          },
+          {
+            "abbrev": "AABREV_xwebn",
+            "name": "NAME_lhzcl"
+          },
+          {
+            "abbrev": "AABREV_rjedl",
+            "name": "NAME_sevdy"
+          },
+          {
+            "abbrev": "AABREV_vtkuu",
+            "name": "NAME_pexta"
+          }
+        ]
+      },
+      {
+        "grade": "3",
+        "classDictionaries": [
+          {
+            "className": "wwbo",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_fruio",
+                "name": "NAME_nkdjd"
+              },
+              {
+                "abbrev": "AABREV_rhwci",
+                "name": "NAME_nrbqg"
+              },
+              {
+                "abbrev": "AABREV_zhtvy",
+                "name": "NAME_rrlzb"
+              },
+              {
+                "abbrev": "AABREV_zkwgi",
+                "name": "NAME_psejm"
+              },
+              {
+                "abbrev": "AABREV_lwxqt",
+                "name": "NAME_sixem"
+              }
+            ]
+          },
+          {
+            "className": "fixg",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_ydrae",
+                "name": "NAME_ukkfn"
+              },
+              {
+                "abbrev": "AABREV_iklbx",
+                "name": "NAME_mvlcd"
+              },
+              {
+                "abbrev": "AABREV_tffum",
+                "name": "NAME_qcsny"
+              },
+              {
+                "abbrev": "AABREV_lunml",
+                "name": "NAME_ymviu"
+              },
+              {
+                "abbrev": "AABREV_msxpl",
+                "name": "NAME_ipyiq"
+              },
+              {
+                "abbrev": "AABREV_udfoz",
+                "name": "NAME_ygurz"
+              },
+              {
+                "abbrev": "AABREV_gxtnd",
+                "name": "NAME_ykodp"
+              },
+              {
+                "abbrev": "AABREV_wkouy",
+                "name": "NAME_xvkhd"
+              },
+              {
+                "abbrev": "AABREV_lywtb",
+                "name": "NAME_vxcfy"
+              }
+            ]
+          },
+          {
+            "className": "shcq",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_qhglp",
+                "name": "NAME_ghmoc"
+              },
+              {
+                "abbrev": "AABREV_dgunw",
+                "name": "NAME_tdiuc"
+              },
+              {
+                "abbrev": "AABREV_uzmik",
+                "name": "NAME_manvl"
+              },
+              {
+                "abbrev": "AABREV_roody",
+                "name": "NAME_ovhhk"
+              },
+              {
+                "abbrev": "AABREV_yynpg",
+                "name": "NAME_stwug"
+              },
+              {
+                "abbrev": "AABREV_tdwqn",
+                "name": "NAME_lxbzs"
+              },
+              {
+                "abbrev": "AABREV_vmdpa",
+                "name": "NAME_ynuvx"
+              },
+              {
+                "abbrev": "AABREV_csyav",
+                "name": "NAME_goisj"
+              }
+            ]
+          },
+          {
+            "className": "hpti",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_urslo",
+                "name": "NAME_yvslg"
+              },
+              {
+                "abbrev": "AABREV_mlddt",
+                "name": "NAME_bqwqc"
+              },
+              {
+                "abbrev": "AABREV_qgsnz",
+                "name": "NAME_ihfxi"
+              },
+              {
+                "abbrev": "AABREV_iqocw",
+                "name": "NAME_rbvsg"
+              },
+              {
+                "abbrev": "AABREV_zplav",
+                "name": "NAME_hiifd"
+              },
+              {
+                "abbrev": "AABREV_xjivk",
+                "name": "NAME_wwema"
+              }
+            ]
+          },
+          {
+            "className": "dzla",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_pfbsd",
+                "name": "NAME_usdzp"
+              },
+              {
+                "abbrev": "AABREV_irnpc",
+                "name": "NAME_ubwvy"
+              },
+              {
+                "abbrev": "AABREV_qsjch",
+                "name": "NAME_vavcm"
+              },
+              {
+                "abbrev": "AABREV_hochz",
+                "name": "NAME_yzheb"
+              },
+              {
+                "abbrev": "AABREV_wvpzm",
+                "name": "NAME_akqyc"
+              },
+              {
+                "abbrev": "AABREV_krjap",
+                "name": "NAME_rdmcb"
+              },
+              {
+                "abbrev": "AABREV_tlwow",
+                "name": "NAME_zenqs"
+              },
+              {
+                "abbrev": "AABREV_tjlbo",
+                "name": "NAME_kajxn"
+              }
+            ]
+          },
+          {
+            "className": "tswc",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_aauzm",
+                "name": "NAME_zzcny"
+              },
+              {
+                "abbrev": "AABREV_eqmoq",
+                "name": "NAME_rtfin"
+              },
+              {
+                "abbrev": "AABREV_gkrki",
+                "name": "NAME_oerde"
+              },
+              {
+                "abbrev": "AABREV_ouula",
+                "name": "NAME_evkcy"
+              },
+              {
+                "abbrev": "AABREV_rubsw",
+                "name": "NAME_gvksh"
+              },
+              {
+                "abbrev": "AABREV_ufbaz",
+                "name": "NAME_dbtfa"
+              },
+              {
+                "abbrev": "AABREV_abbaa",
+                "name": "NAME_qznks"
+              },
+              {
+                "abbrev": "AABREV_sjkvt",
+                "name": "NAME_ehbds"
+              }
+            ]
+          },
+          {
+            "className": "jyud",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_lvyfw",
+                "name": "NAME_qkyjs"
+              },
+              {
+                "abbrev": "AABREV_esare",
+                "name": "NAME_pvvie"
+              },
+              {
+                "abbrev": "AABREV_dyksl",
+                "name": "NAME_mketb"
+              },
+              {
+                "abbrev": "AABREV_ntwdn",
+                "name": "NAME_kbpzl"
+              },
+              {
+                "abbrev": "AABREV_stmzv",
+                "name": "NAME_qegcf"
+              }
+            ]
+          }
+        ],
+        "dictionaries": [
+          {
+            "abbrev": "AABREV_deyst",
+            "name": "NAME_eqnpw"
+          },
+          {
+            "abbrev": "AABREV_jspvu",
+            "name": "NAME_hyghz"
+          },
+          {
+            "abbrev": "AABREV_gkziy",
+            "name": "NAME_thbia"
+          },
+          {
+            "abbrev": "AABREV_xfghi",
+            "name": "NAME_tzvqy"
+          },
+          {
+            "abbrev": "AABREV_zwuna",
+            "name": "NAME_fezpn"
+          },
+          {
+            "abbrev": "AABREV_tuhdb",
+            "name": "NAME_fmzdf"
+          },
+          {
+            "abbrev": "AABREV_abpkp",
+            "name": "NAME_fjalr"
+          }
+        ]
+      },
+      {
+        "grade": "4",
+        "classDictionaries": [
+          {
+            "className": "whpp",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_uoqkq",
+                "name": "NAME_edamt"
+              },
+              {
+                "abbrev": "AABREV_rzrvl",
+                "name": "NAME_xyfdf"
+              },
+              {
+                "abbrev": "AABREV_knvat",
+                "name": "NAME_axlak"
+              },
+              {
+                "abbrev": "AABREV_nsfin",
+                "name": "NAME_rghxp"
+              },
+              {
+                "abbrev": "AABREV_uhbai",
+                "name": "NAME_jdzhl"
+              },
+              {
+                "abbrev": "AABREV_lyaga",
+                "name": "NAME_nkbdx"
+              }
+            ]
+          },
+          {
+            "className": "rmvh",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_lleod",
+                "name": "NAME_ydjrd"
+              },
+              {
+                "abbrev": "AABREV_idkjh",
+                "name": "NAME_hyrho"
+              },
+              {
+                "abbrev": "AABREV_pmbyz",
+                "name": "NAME_tfibk"
+              },
+              {
+                "abbrev": "AABREV_ajmnn",
+                "name": "NAME_dtmcm"
+              },
+              {
+                "abbrev": "AABREV_cfvbj",
+                "name": "NAME_mqhdc"
+              },
+              {
+                "abbrev": "AABREV_ofljm",
+                "name": "NAME_vgicg"
+              },
+              {
+                "abbrev": "AABREV_tjivp",
+                "name": "NAME_sdclo"
+              },
+              {
+                "abbrev": "AABREV_huwki",
+                "name": "NAME_kovwx"
+              }
+            ]
+          },
+          {
+            "className": "lcqt",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_jtrxz",
+                "name": "NAME_bthoy"
+              },
+              {
+                "abbrev": "AABREV_vjhdc",
+                "name": "NAME_ctmhe"
+              },
+              {
+                "abbrev": "AABREV_yfbdp",
+                "name": "NAME_znbkm"
+              },
+              {
+                "abbrev": "AABREV_qtawn",
+                "name": "NAME_gqrrr"
+              },
+              {
+                "abbrev": "AABREV_mwmei",
+                "name": "NAME_mawwm"
+              },
+              {
+                "abbrev": "AABREV_llray",
+                "name": "NAME_vwijo"
+              },
+              {
+                "abbrev": "AABREV_eezsd",
+                "name": "NAME_gxucs"
+              }
+            ]
+          },
+          {
+            "className": "qult",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_vugcx",
+                "name": "NAME_adxkn"
+              },
+              {
+                "abbrev": "AABREV_qgdap",
+                "name": "NAME_wqykd"
+              },
+              {
+                "abbrev": "AABREV_sragr",
+                "name": "NAME_yhind"
+              },
+              {
+                "abbrev": "AABREV_srode",
+                "name": "NAME_ghsbo"
+              },
+              {
+                "abbrev": "AABREV_eitms",
+                "name": "NAME_fgknp"
+              },
+              {
+                "abbrev": "AABREV_wjnhy",
+                "name": "NAME_jivji"
+              },
+              {
+                "abbrev": "AABREV_tgutp",
+                "name": "NAME_ncltd"
+              }
+            ]
+          },
+          {
+            "className": "larj",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_ksrgt",
+                "name": "NAME_hjhgc"
+              },
+              {
+                "abbrev": "AABREV_vqjyi",
+                "name": "NAME_cjxld"
+              },
+              {
+                "abbrev": "AABREV_fdqjp",
+                "name": "NAME_zbiak"
+              },
+              {
+                "abbrev": "AABREV_hlbcp",
+                "name": "NAME_pgpub"
+              },
+              {
+                "abbrev": "AABREV_pcluo",
+                "name": "NAME_htuej"
+              },
+              {
+                "abbrev": "AABREV_hrzyf",
+                "name": "NAME_kkcrd"
+              },
+              {
+                "abbrev": "AABREV_vkwbv",
+                "name": "NAME_ockek"
+              }
+            ]
+          },
+          {
+            "className": "vgee",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_orbql",
+                "name": "NAME_scnsv"
+              },
+              {
+                "abbrev": "AABREV_vruwy",
+                "name": "NAME_xszuf"
+              },
+              {
+                "abbrev": "AABREV_ypdoh",
+                "name": "NAME_fpycj"
+              },
+              {
+                "abbrev": "AABREV_hfcxw",
+                "name": "NAME_ydqth"
+              },
+              {
+                "abbrev": "AABREV_smvvg",
+                "name": "NAME_fnqik"
+              },
+              {
+                "abbrev": "AABREV_hanwg",
+                "name": "NAME_ytdaw"
+              },
+              {
+                "abbrev": "AABREV_ximdz",
+                "name": "NAME_qxstb"
+              }
+            ]
+          }
+        ],
+        "dictionaries": [
+          {
+            "abbrev": "AABREV_lyemv",
+            "name": "NAME_jwsyq"
+          },
+          {
+            "abbrev": "AABREV_dtqhp",
+            "name": "NAME_gptwa"
+          },
+          {
+            "abbrev": "AABREV_owjvk",
+            "name": "NAME_jkemj"
+          },
+          {
+            "abbrev": "AABREV_acwbd",
+            "name": "NAME_cryij"
+          },
+          {
+            "abbrev": "AABREV_fsgef",
+            "name": "NAME_kbcxx"
+          },
+          {
+            "abbrev": "AABREV_ygqgx",
+            "name": "NAME_ksbcp"
+          },
+          {
+            "abbrev": "AABREV_xhihf",
+            "name": "NAME_yliik"
+          },
+          {
+            "abbrev": "AABREV_ztxgg",
+            "name": "NAME_htfnb"
+          },
+          {
+            "abbrev": "AABREV_kpgkc",
+            "name": "NAME_bglbf"
+          }
+        ]
+      },
+      {
+        "grade": "5",
+        "classDictionaries": [
+          {
+            "className": "kidn",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_znozs",
+                "name": "NAME_tvwra"
+              },
+              {
+                "abbrev": "AABREV_jfobo",
+                "name": "NAME_vmvdi"
+              },
+              {
+                "abbrev": "AABREV_fjcws",
+                "name": "NAME_dslha"
+              },
+              {
+                "abbrev": "AABREV_fvwkr",
+                "name": "NAME_sdgqb"
+              },
+              {
+                "abbrev": "AABREV_gkfpb",
+                "name": "NAME_ugtyc"
+              },
+              {
+                "abbrev": "AABREV_madjb",
+                "name": "NAME_dmwzr"
+              },
+              {
+                "abbrev": "AABREV_qbgia",
+                "name": "NAME_xjsah"
+              },
+              {
+                "abbrev": "AABREV_tfceh",
+                "name": "NAME_iboea"
+              },
+              {
+                "abbrev": "AABREV_qnisd",
+                "name": "NAME_rxmuo"
+              }
+            ]
+          },
+          {
+            "className": "decs",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_qnthz",
+                "name": "NAME_zfkwf"
+              },
+              {
+                "abbrev": "AABREV_txpme",
+                "name": "NAME_xnuvh"
+              },
+              {
+                "abbrev": "AABREV_ouauw",
+                "name": "NAME_qialr"
+              },
+              {
+                "abbrev": "AABREV_cvzds",
+                "name": "NAME_aeyer"
+              },
+              {
+                "abbrev": "AABREV_mwzwk",
+                "name": "NAME_pamrm"
+              }
+            ]
+          },
+          {
+            "className": "oxdw",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_xfqnl",
+                "name": "NAME_snlnf"
+              },
+              {
+                "abbrev": "AABREV_fohhn",
+                "name": "NAME_seees"
+              },
+              {
+                "abbrev": "AABREV_ebwpb",
+                "name": "NAME_enpad"
+              },
+              {
+                "abbrev": "AABREV_uhwvu",
+                "name": "NAME_waufq"
+              },
+              {
+                "abbrev": "AABREV_aahkf",
+                "name": "NAME_tiyqx"
+              }
+            ]
+          }
+        ],
+        "dictionaries": [
+          {
+            "abbrev": "AABREV_mhpmx",
+            "name": "NAME_vgahp"
+          },
+          {
+            "abbrev": "AABREV_arqws",
+            "name": "NAME_mpzbq"
+          },
+          {
+            "abbrev": "AABREV_wnabb",
+            "name": "NAME_dmirp"
+          },
+          {
+            "abbrev": "AABREV_xaiaj",
+            "name": "NAME_smfse"
+          },
+          {
+            "abbrev": "AABREV_kcyjv",
+            "name": "NAME_tibsz"
+          }
+        ]
+      },
+      {
+        "grade": "6",
+        "classDictionaries": [
+          {
+            "className": "lrpg",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_xvahi",
+                "name": "NAME_fhcwd"
+              },
+              {
+                "abbrev": "AABREV_nqley",
+                "name": "NAME_ejkse"
+              },
+              {
+                "abbrev": "AABREV_mljvt",
+                "name": "NAME_nazqg"
+              },
+              {
+                "abbrev": "AABREV_timsz",
+                "name": "NAME_lvgjd"
+              },
+              {
+                "abbrev": "AABREV_xxkhi",
+                "name": "NAME_pjtuh"
+              }
+            ]
+          },
+          {
+            "className": "usts",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_wqedy",
+                "name": "NAME_yjcqm"
+              },
+              {
+                "abbrev": "AABREV_guchj",
+                "name": "NAME_riycu"
+              },
+              {
+                "abbrev": "AABREV_bypqp",
+                "name": "NAME_wefzi"
+              },
+              {
+                "abbrev": "AABREV_xnjdk",
+                "name": "NAME_fozzf"
+              },
+              {
+                "abbrev": "AABREV_hople",
+                "name": "NAME_ixrkc"
+              },
+              {
+                "abbrev": "AABREV_wxhig",
+                "name": "NAME_gclig"
+              }
+            ]
+          },
+          {
+            "className": "kfqs",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_ygbyh",
+                "name": "NAME_lauxg"
+              },
+              {
+                "abbrev": "AABREV_ozmow",
+                "name": "NAME_gpgiy"
+              },
+              {
+                "abbrev": "AABREV_bsjhw",
+                "name": "NAME_psqot"
+              },
+              {
+                "abbrev": "AABREV_nlikk",
+                "name": "NAME_yenbx"
+              },
+              {
+                "abbrev": "AABREV_lqgjl",
+                "name": "NAME_vjkik"
+              }
+            ]
+          },
+          {
+            "className": "zcfj",
+            "dictionaries": [
+              {
+                "abbrev": "AABREV_jcdbd",
+                "name": "NAME_hwwwy"
+              },
+              {
+                "abbrev": "AABREV_gtuuv",
+                "name": "NAME_lyluv"
+              },
+              {
+                "abbrev": "AABREV_cqqwh",
+                "name": "NAME_ivrse"
+              },
+              {
+                "abbrev": "AABREV_hnhrb",
+                "name": "NAME_vejsv"
+              },
+              {
+                "abbrev": "AABREV_lzxol",
+                "name": "NAME_xxexi"
+              },
+              {
+                "abbrev": "AABREV_henij",
+                "name": "NAME_nonik"
+              },
+              {
+                "abbrev": "AABREV_fseje",
+                "name": "NAME_qgdpk"
+              },
+              {
+                "abbrev": "AABREV_waqhf",
+                "name": "NAME_ubzck"
+              }
+            ]
+          }
+        ],
+        "dictionaries": [
+          {
+            "abbrev": "AABREV_zxiqv",
+            "name": "NAME_ngpfk"
+          },
+          {
+            "abbrev": "AABREV_jvmyu",
+            "name": "NAME_ytsqz"
+          },
+          {
+            "abbrev": "AABREV_tndlq",
+            "name": "NAME_mtfwu"
+          },
+          {
+            "abbrev": "AABREV_kelhi",
+            "name": "NAME_pfnbp"
+          },
+          {
+            "abbrev": "AABREV_fnijx",
+            "name": "NAME_ujcfa"
+          },
+          {
+            "abbrev": "AABREV_rvvea",
+            "name": "NAME_bdrsr"
+          },
+          {
+            "abbrev": "AABREV_yabhf",
+            "name": "NAME_jnhbf"
+          }
+        ]
+      }
+    ],
+    "total_dictionaries": [
+      {
+        "abbrev": "AABREV_mgboi",
+        "name": "NAME_tlpgm"
+      },
+      {
+        "abbrev": "AABREV_yeftz",
+        "name": "NAME_iohst"
+      },
+      {
+        "abbrev": "AABREV_mkhry",
+        "name": "NAME_ohmlh"
+      },
+      {
+        "abbrev": "AABREV_zvskb",
+        "name": "NAME_fhuxt"
+      },
+      {
+        "abbrev": "AABREV_kiizl",
+        "name": "NAME_rvirw"
+      },
+      {
+        "abbrev": "AABREV_kwwmh",
+        "name": "NAME_kazrv"
+      },
+      {
+        "abbrev": "AABREV_thsic",
+        "name": "NAME_hampu"
+      },
+      {
+        "abbrev": "AABREV_ojggu",
+        "name": "NAME_luoug"
+      },
+      {
+        "abbrev": "AABREV_zjibu",
+        "name": "NAME_rytxy"
+      },
+      {
+        "abbrev": "AABREV_udbpp",
+        "name": "NAME_halxd"
+      },
+      {
+        "abbrev": "AABREV_ojcye",
+        "name": "NAME_ylpgi"
+      },
+      {
+        "abbrev": "AABREV_ptqqv",
+        "name": "NAME_lqmrm"
+      },
+      {
+        "abbrev": "AABREV_khbzo",
+        "name": "NAME_oprlu"
+      },
+      {
+        "abbrev": "AABREV_drsoh",
+        "name": "NAME_makxv"
+      },
+      {
+        "abbrev": "AABREV_iedfg",
+        "name": "NAME_hhpav"
+      },
+      {
+        "abbrev": "AABREV_zzygu",
+        "name": "NAME_lvbze"
+      },
+      {
+        "abbrev": "AABREV_bxbtz",
+        "name": "NAME_nnpfe"
+      },
+      {
+        "abbrev": "AABREV_ookhl",
+        "name": "NAME_cwppa"
+      },
+      {
+        "abbrev": "AABREV_hpccw",
+        "name": "NAME_kmrfs"
+      }
+    ]
+  }
+]
